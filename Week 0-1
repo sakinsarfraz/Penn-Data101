@@ -6,3 +6,5 @@
 
 mainDir = main directory 
 "" : Quotation marks to execute a command
+
+<- : Assignment operator in R, telling what to do

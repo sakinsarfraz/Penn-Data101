@@ -8,3 +8,5 @@ mainDir = main directory
 "" : Quotation marks to execute a command
 
 <- : Assignment operator in R, telling what to do
+
+c() : How you tell R to create a list of numbers
